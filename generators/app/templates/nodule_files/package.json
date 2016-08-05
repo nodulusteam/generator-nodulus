@@ -1,0 +1,30 @@
+{
+  "name": "@nodulus/translations",
+  "version": "1.0.4",
+  "description": "",
+  "main": "Language.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nodulus/api": "*",
+    "@nodulus/data": "*"
+  },
+   "devDependencies": {
+    "chai": "^3.5.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.2.0",
+    "gulp-ignore": "^2.0.1",
+    "gulp-publish": "^0.8.7",
+    "gulp-run": "^1.7.1",
+    "gulp-tslint": "^6.0.1",
+    "gulp-typescript": "^2.13.6",
+    "mocha": "^2.5.3",
+    "run-sequence": "^1.2.2",
+    "tslint": "^3.13.0",
+    "typescript": "^1.8.10"
+  }
+}
